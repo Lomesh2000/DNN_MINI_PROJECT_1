@@ -76,7 +76,7 @@ If you use this work or its methods, please cite:
 
 ## 🔗 Resources
 📘 Full Report: [`DNN_MINI_PROJECT_1_REPORT.pdf`](./DNN_MINI_PROJECT_1_REPORT.pdf)  
-💻 Complete Code: [GitHub Repository](https://github.com/Lomesh2000/ML-Project-END-to-END)
+💻 Complete Code: [GitHub Repository](https://github.com/Lomesh2000/DNN_MINI_PROJECT_1/tree/master?tab=readme-ov-file)
 
 ---
 
