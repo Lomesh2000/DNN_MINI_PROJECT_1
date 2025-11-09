@@ -1,5 +1,5 @@
 # DNN_MINI_PROJECT_1
-# Deep Neural Networks: CNN Architecture, Invariance, Feature Extraction, and Adversarial Robustness
+# Deep Neural Networks: CNN Architecture, Invariance, Feature Extraction, and Adversarial Attacks
 
 ### 🧠 M.Tech Coursework Project — IIIT Bangalore  
 **Submitted by:**  
